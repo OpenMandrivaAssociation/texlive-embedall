@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-embedall
 Version:	1.0
-Release:	9
+Release:	10
 Summary:	Embed source files into the generated PDF
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/embedall
