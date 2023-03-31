@@ -1,6 +1,6 @@
 Name:		texlive-embedall
 Version:	51177
-Release:	1
+Release:	2
 Summary:	Embed source files into the generated PDF
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/embedall
