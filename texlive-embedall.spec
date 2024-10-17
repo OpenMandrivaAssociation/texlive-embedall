@@ -3,7 +3,7 @@ Version:	51177
 Release:	2
 Summary:	Embed source files into the generated PDF
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/embedall
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/embedall
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/embedall.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/embedall.doc.r%{version}.tar.xz
